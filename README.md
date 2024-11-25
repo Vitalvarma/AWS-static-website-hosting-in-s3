@@ -37,3 +37,6 @@ Follow these steps to host your static website on Amazon S3:
 
 ## Conclusion
 Congratulations! You have successfully hosted a static website using Amazon S3 and AWS Amplify. If you have any questions or issues, feel free to open an issue in this repository.
+
+![WhatsApp Image 2024-11-25 at 15 06 07_12d3bfd4](https://github.com/user-attachments/assets/9efd3a21-ff50-4691-80ca-c14eeff443ad)
+![WhatsApp Image 2024-11-25 at 15 06 07_f634fc14](https://github.com/user-attachments/assets/05481ddc-1fba-4475-b425-cfa5a9c56aaf)
